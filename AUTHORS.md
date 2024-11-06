@@ -1,3 +1,4 @@
 # AUTHORS
 
-* Jesús Profesor
+* Jesús Profesor <jmmoreno@iestrassierra.com>
+* Jhon Doe
